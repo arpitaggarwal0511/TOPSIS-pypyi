@@ -2,6 +2,7 @@
 pypi package for topsis
 
 TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a method for ranking alternatives based on multiple criteria. It's a multiple criteria decision-making (MCDM) method. 
+
 How it works 
 Create a normalized decision matrix
 Calculate the positive ideal solution and the negative ideal solution
