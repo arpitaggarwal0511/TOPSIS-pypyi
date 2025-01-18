@@ -23,6 +23,8 @@ cd TOPSIS-pypi
 (Optional) Install Locally: If you have the source code and want to install the package locally:
 
 ```
+pip install stuptools wheel
+python setup.py sdist bdist_wheel
 pip install .
 ```
 
