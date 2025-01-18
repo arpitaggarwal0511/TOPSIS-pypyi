@@ -90,7 +90,7 @@ def main():
         else:
             print("Error: Unsupported output file format. Please provide a .csv or .xlsx file.")
             sys.exit(1)
-        print(f"✔ Output saved to {output_file}")
+        print(f" Output saved to {output_file}")
     except Exception as e:
         print(f"Error: Unable to save output file. {e}")
         sys.exit(1)

@@ -1,3 +1,4 @@
+LICENSE.txt
 README.md
 setup.py
 topsis_102203872/__init__.py
