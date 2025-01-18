@@ -15,7 +15,6 @@ Clone the Repository (Optional for local development):
 
 
 ```
-
 git clone https://github.com/arpitaggarwal0511/TOPSIS-pypyi.git
 cd TOPSIS-pypi
 ```
@@ -23,7 +22,7 @@ cd TOPSIS-pypi
 (Optional) Install Locally: If you have the source code and want to install the package locally:
 
 ```
-pip install stuptools wheel
+pip install setuptools wheel
 python setup.py sdist bdist_wheel
 pip install .
 ```
